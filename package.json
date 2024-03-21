@@ -1,0 +1,29 @@
+{
+  "name": "nihilquidem",
+  "version": "1.0.0",
+  "description": "Multiple input support for konami code (Keyboard and Touch)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KevonParisian/nihilquidem.git"
+  },
+  "keywords": [
+    "konami",
+    "qui",
+    "et",
+    "touch",
+    "touchscreen",
+    "phone",
+    "iphone",
+    "android",
+    "dolores",
+    "easter",
+    "beatae"
+  ],
+  "author": "BradlyKemmer",
+  "license": "MIT",
+  "dependencies": {
+    "konami-touch": "^0.0.3",
+    "konami-keyboard": "^0.0.1"
+  }
+}
